@@ -7,7 +7,7 @@ final project docker advanced
 5. create file YAML docker-compose.yml
 6. before compose run edit dulu file hosts yang ada di C:\Windows\System32\drivers\etc
 add baris ini:
-172.25.80.1 www.domainsaya.local pma.domainsaya.local
+xx.xx.xx.x www.domainsaya.local pma.domainsaya.local
 7. buka cmd dan masuk ke direktori final project yang dimana terdapat file docker compose dkk
 8. jalankan comand: docker-compose up
 9. pastikan container sudah berjalan normal semua
